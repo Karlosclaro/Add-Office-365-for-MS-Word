@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Word Excel Generator",
+  "description": "A simulated Office Add-in that uses Gemini AI to generate structured tables from natural language prompts for Word and Excel.",
+  "requestFramePermissions": []
+}
